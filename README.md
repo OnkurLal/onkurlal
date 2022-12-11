@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Onkur Lal</h1>
 <h3 align="center">Student Software Engineer</h3>
 
-- 🔭 I’m currently practicing [JS, node.js, express, and MongoDB](https://github.com/OnkurLal/express-practice)
+- 🔭 I’m currently practicing [React](https://github.com/OnkurLal/notes-app)
 
-- 🌱 I’m currently learning **node.js and express**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 My latest project is at [https://onkurpastvacations.netlify.app/](https://onkurpastvacations.netlify.app/)
 
