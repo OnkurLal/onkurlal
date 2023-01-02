@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onkur Lal</h1>
-<h3 align="center">Student Software Engineer</h3>
+<h3 align="center">Junior Developer</h3>
 
 - 🔭 Here is my [Portfolio](https://onkurlal.netlify.app/)
 
