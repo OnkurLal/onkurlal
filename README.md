@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, TypeScript**
 
-- 👨‍💻 My latest project is at [https://onkurspupster.netlify.app/](https://onkurspupster.netlify.app/)
+- 👨‍💻 My latest project is at [https://onkurs-weather-app.netlify.app/](https://onkurs-weather-app.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JS, TailwindCSS, React**
 
