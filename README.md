@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Onkur Lal</h1>
-<h3 align="center">Junior Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 Here is my [Portfolio](https://onkurlal.netlify.app/)
 
-- 🌱 I’m currently learning **NextJS, TypeScript**
+- 🌱 I’m currently learning **Django, Python, Restful APIs**
 
-- 👨‍💻 My latest project is at [https://onkurs-weather-app.netlify.app/](https://onkurs-weather-app.netlify.app/)
+- 👨‍💻 My latest project is [My Health](https://myhealth.pythonanywhere.com/records/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS, TailwindCSS, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS, TailwindCSS, React, Python, Django**
 
 - 📫 How to reach me **onkur24lal@gmail.com**
 
