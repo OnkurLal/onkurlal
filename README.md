@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onkur Lal</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Python, Django, RestfulAPIs**
+- 🌱 I’m currently learning **FastAPI and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://onkurlal.netlify.app/](https://onkurlal.netlify.app/)
 
